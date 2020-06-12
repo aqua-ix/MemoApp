@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MemoApp</string>
+    <string name="last_modified">%1$tm月%1$td日 %1$tH時%1$tM分</string>
+</resources>
